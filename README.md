@@ -1,5 +1,5 @@
 # calculate simple arithmetic expressions
-:1234::heavy_plus_sign:/:heavy_minus_sign:/:heavy_multiplication_x::1234:=:question:
+🔢➕/➖/✖️/➗🔢=❓
 
 This shell script calculates all possible solutions from provided numbers using simple arithmetic operations, excluding exponentiation  (+, -, *, /). You can also provide a desired solution. Then the script provides those options that evaluate to your solution.
 
